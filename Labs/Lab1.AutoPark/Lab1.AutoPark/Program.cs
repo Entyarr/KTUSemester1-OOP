@@ -1,7 +1,5 @@
 ﻿/*
 2021 KTU 1st laboratory project
-Author: Domas Kvedaras
-Group: IF-1/1
 Project number: U1-2 "Automobilių parkas"
 This entire program uses the data from LLC "Žaibas" to find:
 1. The most common car (or multiple) in the list and the number of how many times it appears.
