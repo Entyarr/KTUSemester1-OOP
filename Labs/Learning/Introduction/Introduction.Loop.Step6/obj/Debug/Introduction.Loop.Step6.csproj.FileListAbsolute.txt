@@ -1,0 +1,12 @@
+D:\Introduction.Loop.Step6\bin\Debug\Introduction.Loop.Step6.exe.config
+D:\Introduction.Loop.Step6\bin\Debug\Introduction.Loop.Step6.exe
+D:\Introduction.Loop.Step6\bin\Debug\Introduction.Loop.Step6.pdb
+D:\Introduction.Loop.Step6\obj\Debug\Introduction.Loop.Step6.csproj.CoreCompileInputs.cache
+D:\Introduction.Loop.Step6\obj\Debug\Introduction.Loop.Step6.exe
+D:\Introduction.Loop.Step6\obj\Debug\Introduction.Loop.Step6.pdb
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step6\bin\Debug\Introduction.Loop.Step6.exe.config
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step6\bin\Debug\Introduction.Loop.Step6.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step6\bin\Debug\Introduction.Loop.Step6.pdb
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step6\obj\Debug\Introduction.Loop.Step6.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step6\obj\Debug\Introduction.Loop.Step6.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step6\obj\Debug\Introduction.Loop.Step6.pdb

@@ -1,0 +1,35 @@
+C:\Users\domkve\Desktop\Lab darbai\Lab2\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.csprojAssemblyReference.cache
+C:\Users\domkve\Desktop\Lab darbai\Lab2\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\domkve\Desktop\Lab darbai\Lab2\Lab2.Exercises\Lab2.Exercises.Register\bin\Debug\Lab2.Exercises.Register.exe.config
+C:\Users\domkve\Desktop\Lab darbai\Lab2\Lab2.Exercises\Lab2.Exercises.Register\bin\Debug\Lab2.Exercises.Register.exe
+C:\Users\domkve\Desktop\Lab darbai\Lab2\Lab2.Exercises\Lab2.Exercises.Register\bin\Debug\Lab2.Exercises.Register.pdb
+C:\Users\domkve\Desktop\Lab darbai\Lab2\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.exe
+C:\Users\domkve\Desktop\Lab darbai\Lab2\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.pdb
+C:\Users\domkv\Desktop\Lab2\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\Lab2\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Lab2\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.exe
+C:\Users\domkv\Desktop\Lab2\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.pdb
+C:\Users\domkv\Desktop\Lab2\Lab2.Exercises\Lab2.Exercises.Register\bin\Debug\Lab2.Exercises.Register.exe.config
+C:\Users\domkv\Desktop\Lab2\Lab2.Exercises\Lab2.Exercises.Register\bin\Debug\Lab2.Exercises.Register.exe
+C:\Users\domkv\Desktop\Lab2\Lab2.Exercises\Lab2.Exercises.Register\bin\Debug\Lab2.Exercises.Register.pdb
+C:\Users\domkv\Desktop\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.exe
+C:\Users\domkv\Desktop\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.pdb
+C:\Users\domkv\Desktop\Lab2.Exercises\Lab2.Exercises.Register\bin\Debug\Lab2.Exercises.Register.exe.config
+C:\Users\domkv\Desktop\Lab2.Exercises\Lab2.Exercises.Register\bin\Debug\Lab2.Exercises.Register.exe
+C:\Users\domkv\Desktop\Lab2.Exercises\Lab2.Exercises.Register\bin\Debug\Lab2.Exercises.Register.pdb
+C:\Users\domkve\Desktop\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.csprojAssemblyReference.cache
+C:\Users\domkve\Desktop\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\domkve\Desktop\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.exe
+C:\Users\domkve\Desktop\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.pdb
+C:\Users\domkve\Desktop\Lab2.Exercises\Lab2.Exercises.Register\bin\Debug\Lab2.Exercises.Register.exe.config
+C:\Users\domkve\Desktop\Lab2.Exercises\Lab2.Exercises.Register\bin\Debug\Lab2.Exercises.Register.exe
+C:\Users\domkve\Desktop\Lab2.Exercises\Lab2.Exercises.Register\bin\Debug\Lab2.Exercises.Register.pdb
+E:\Lab2.Exercises\Lab2.Exercises.Register\bin\Debug\Lab2.Exercises.Register.exe.config
+E:\Lab2.Exercises\Lab2.Exercises.Register\bin\Debug\Lab2.Exercises.Register.exe
+E:\Lab2.Exercises\Lab2.Exercises.Register\bin\Debug\Lab2.Exercises.Register.pdb
+E:\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.csproj.AssemblyReference.cache
+E:\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.csproj.CoreCompileInputs.cache
+E:\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.exe
+E:\Lab2.Exercises\Lab2.Exercises.Register\obj\Debug\Lab2.Exercises.Register.pdb

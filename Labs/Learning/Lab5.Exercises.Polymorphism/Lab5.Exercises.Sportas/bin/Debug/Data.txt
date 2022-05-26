@@ -1,0 +1,4 @@
+Krepšis;Kaunas;K. Riomeris;10
+Vartai;Marijampolė;T.Tautvis;11
+BB;Krepšis;Juozapaitis;Juozapas;2001-09-11;5;75;9;12
+FB;Vartai;Jonaitis;Jonas;1999-01-15;4;9;4

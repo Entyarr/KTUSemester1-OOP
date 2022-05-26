@@ -1,0 +1,6 @@
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step1\bin\Debug\Introduction.Loop.Step1.exe.config
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step1\bin\Debug\Introduction.Loop.Step1.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step1\bin\Debug\Introduction.Loop.Step1.pdb
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step1\obj\Debug\Introduction.Loop.Step1.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step1\obj\Debug\Introduction.Loop.Step1.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step1\obj\Debug\Introduction.Loop.Step1.pdb

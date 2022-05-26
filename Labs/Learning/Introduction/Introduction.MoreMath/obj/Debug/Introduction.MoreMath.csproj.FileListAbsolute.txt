@@ -1,0 +1,6 @@
+C:\Users\domkv\Desktop\Introduction\Introduction.MoreMath\bin\Debug\Introduction.MoreMath.exe.config
+C:\Users\domkv\Desktop\Introduction\Introduction.MoreMath\bin\Debug\Introduction.MoreMath.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.MoreMath\bin\Debug\Introduction.MoreMath.pdb
+C:\Users\domkv\Desktop\Introduction\Introduction.MoreMath\obj\Debug\Introduction.MoreMath.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Introduction\Introduction.MoreMath\obj\Debug\Introduction.MoreMath.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.MoreMath\obj\Debug\Introduction.MoreMath.pdb

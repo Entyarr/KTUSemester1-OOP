@@ -1,0 +1,6 @@
+C:\Users\domkv\Desktop\Introduction\Introduction.Self2\bin\Debug\Introduction.Self2.exe.config
+C:\Users\domkv\Desktop\Introduction\Introduction.Self2\bin\Debug\Introduction.Self2.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.Self2\bin\Debug\Introduction.Self2.pdb
+C:\Users\domkv\Desktop\Introduction\Introduction.Self2\obj\Debug\Introduction.Self2.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Introduction\Introduction.Self2\obj\Debug\Introduction.Self2.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.Self2\obj\Debug\Introduction.Self2.pdb

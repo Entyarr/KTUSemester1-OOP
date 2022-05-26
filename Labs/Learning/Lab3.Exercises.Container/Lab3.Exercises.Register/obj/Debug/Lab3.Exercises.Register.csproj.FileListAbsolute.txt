@@ -1,0 +1,21 @@
+C:\Users\domkve\source\repos\Lab3.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.csprojAssemblyReference.cache
+C:\Users\domkve\source\repos\Lab3.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\domkve\source\repos\Lab3.Exercises\Lab3.Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe.config
+C:\Users\domkve\source\repos\Lab3.Exercises\Lab3.Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe
+C:\Users\domkve\source\repos\Lab3.Exercises\Lab3.Exercises.Register\bin\Debug\Lab3.Exercises.Register.pdb
+C:\Users\domkve\source\repos\Lab3.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.exe
+C:\Users\domkve\source\repos\Lab3.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.pdb
+C:\Users\domkve\Desktop\Lab3\Lab3.Exercises\Lab3.Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe.config
+C:\Users\domkve\Desktop\Lab3\Lab3.Exercises\Lab3.Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe
+C:\Users\domkve\Desktop\Lab3\Lab3.Exercises\Lab3.Exercises.Register\bin\Debug\Lab3.Exercises.Register.pdb
+C:\Users\domkve\Desktop\Lab3\Lab3.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.csprojAssemblyReference.cache
+C:\Users\domkve\Desktop\Lab3\Lab3.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\domkve\Desktop\Lab3\Lab3.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.exe
+C:\Users\domkve\Desktop\Lab3\Lab3.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.pdb
+C:\Users\domkv\Desktop\ObjectProgramming Lab darbai\Lab3.Exercises\Lab3.Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe.config
+C:\Users\domkv\Desktop\ObjectProgramming Lab darbai\Lab3.Exercises\Lab3.Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe
+C:\Users\domkv\Desktop\ObjectProgramming Lab darbai\Lab3.Exercises\Lab3.Exercises.Register\bin\Debug\Lab3.Exercises.Register.pdb
+C:\Users\domkv\Desktop\ObjectProgramming Lab darbai\Lab3.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\ObjectProgramming Lab darbai\Lab3.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\ObjectProgramming Lab darbai\Lab3.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.exe
+C:\Users\domkv\Desktop\ObjectProgramming Lab darbai\Lab3.Exercises\Lab3.Exercises.Register\obj\Debug\Lab3.Exercises.Register.pdb

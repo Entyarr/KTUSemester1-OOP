@@ -1,0 +1,14 @@
+C:\Users\domkve\Desktop\Lab5.Exercises\Lab5.Exercises.Register\obj\Debug\Lab5.Exercises.Register.csprojAssemblyReference.cache
+C:\Users\domkve\Desktop\Lab5.Exercises\Lab5.Exercises.Register\obj\Debug\Lab5.Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\domkve\Desktop\Lab5.Exercises\Lab5.Exercises.Register\bin\Debug\Lab5.Exercises.Register.exe.config
+C:\Users\domkve\Desktop\Lab5.Exercises\Lab5.Exercises.Register\bin\Debug\Lab5.Exercises.Register.exe
+C:\Users\domkve\Desktop\Lab5.Exercises\Lab5.Exercises.Register\bin\Debug\Lab5.Exercises.Register.pdb
+C:\Users\domkve\Desktop\Lab5.Exercises\Lab5.Exercises.Register\obj\Debug\Lab5.Exercises.Register.exe
+C:\Users\domkve\Desktop\Lab5.Exercises\Lab5.Exercises.Register\obj\Debug\Lab5.Exercises.Register.pdb
+C:\Users\domkv\Desktop\Lab5.Exercises\Lab5.Exercises.Register\obj\Debug\Lab5.Exercises.Register.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\Lab5.Exercises\Lab5.Exercises.Register\obj\Debug\Lab5.Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Lab5.Exercises\Lab5.Exercises.Register\obj\Debug\Lab5.Exercises.Register.exe
+C:\Users\domkv\Desktop\Lab5.Exercises\Lab5.Exercises.Register\obj\Debug\Lab5.Exercises.Register.pdb
+C:\Users\domkv\Desktop\Lab5.Exercises\Lab5.Exercises.Register\bin\Debug\Lab5.Exercises.Register.exe.config
+C:\Users\domkv\Desktop\Lab5.Exercises\Lab5.Exercises.Register\bin\Debug\Lab5.Exercises.Register.exe
+C:\Users\domkv\Desktop\Lab5.Exercises\Lab5.Exercises.Register\bin\Debug\Lab5.Exercises.Register.pdb

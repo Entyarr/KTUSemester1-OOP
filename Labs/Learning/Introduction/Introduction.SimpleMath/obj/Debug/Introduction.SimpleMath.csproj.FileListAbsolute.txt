@@ -1,0 +1,7 @@
+C:\Users\domkv\Desktop\Introduction\Introduction.SimpleMath\bin\Debug\Introduction.SimpleMath.exe.config
+C:\Users\domkv\Desktop\Introduction\Introduction.SimpleMath\bin\Debug\Introduction.SimpleMath.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.SimpleMath\bin\Debug\Introduction.SimpleMath.pdb
+C:\Users\domkv\Desktop\Introduction\Introduction.SimpleMath\obj\Debug\Introduction.SimpleMath.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\Introduction\Introduction.SimpleMath\obj\Debug\Introduction.SimpleMath.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Introduction\Introduction.SimpleMath\obj\Debug\Introduction.SimpleMath.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.SimpleMath\obj\Debug\Introduction.SimpleMath.pdb

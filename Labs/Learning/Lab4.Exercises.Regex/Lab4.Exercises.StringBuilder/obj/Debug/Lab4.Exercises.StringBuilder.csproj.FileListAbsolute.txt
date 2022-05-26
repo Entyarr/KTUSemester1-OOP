@@ -1,0 +1,1 @@
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.StringBuilder\obj\Debug\Lab4.Exercises.StringBuilder.csproj.CoreCompileInputs.cache

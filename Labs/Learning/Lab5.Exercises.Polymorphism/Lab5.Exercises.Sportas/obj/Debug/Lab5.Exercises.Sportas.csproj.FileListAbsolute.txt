@@ -1,0 +1,7 @@
+C:\Users\domkv\Desktop\Lab5.Exercises\Lab5.Exercises.Sportas\bin\Debug\Lab5.Exercises.Sportas.exe.config
+C:\Users\domkv\Desktop\Lab5.Exercises\Lab5.Exercises.Sportas\bin\Debug\Lab5.Exercises.Sportas.exe
+C:\Users\domkv\Desktop\Lab5.Exercises\Lab5.Exercises.Sportas\bin\Debug\Lab5.Exercises.Sportas.pdb
+C:\Users\domkv\Desktop\Lab5.Exercises\Lab5.Exercises.Sportas\obj\Debug\Lab5.Exercises.Sportas.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\Lab5.Exercises\Lab5.Exercises.Sportas\obj\Debug\Lab5.Exercises.Sportas.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Lab5.Exercises\Lab5.Exercises.Sportas\obj\Debug\Lab5.Exercises.Sportas.exe
+C:\Users\domkv\Desktop\Lab5.Exercises\Lab5.Exercises.Sportas\obj\Debug\Lab5.Exercises.Sportas.pdb

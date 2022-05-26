@@ -1,0 +1,7 @@
+C:\Users\domkve\Desktop\Lab3\Lab3.Exercises\test\bin\Debug\test.exe.config
+C:\Users\domkve\Desktop\Lab3\Lab3.Exercises\test\bin\Debug\test.exe
+C:\Users\domkve\Desktop\Lab3\Lab3.Exercises\test\bin\Debug\test.pdb
+C:\Users\domkve\Desktop\Lab3\Lab3.Exercises\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\domkve\Desktop\Lab3\Lab3.Exercises\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\domkve\Desktop\Lab3\Lab3.Exercises\test\obj\Debug\test.exe
+C:\Users\domkve\Desktop\Lab3\Lab3.Exercises\test\obj\Debug\test.pdb

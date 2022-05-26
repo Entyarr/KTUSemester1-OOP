@@ -1,0 +1,6 @@
+        //------------------------------------------------------------ 
+        /** Reads, removes comments and prints to two files. 
+          @param fin – name of data file  
+          @param fout – name of result file  
+          @param finfo – name of informative file  */
+        //------------------------------------------------------------

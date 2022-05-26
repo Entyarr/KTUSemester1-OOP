@@ -1,0 +1,14 @@
+D:\Introduction.Loop.Step5\bin\Debug\Introduction.Loop.Step5.exe.config
+D:\Introduction.Loop.Step5\bin\Debug\Introduction.Loop.Step5.exe
+D:\Introduction.Loop.Step5\bin\Debug\Introduction.Loop.Step5.pdb
+D:\Introduction.Loop.Step5\obj\Debug\Introduction.Loop.Step5.csproj.CoreCompileInputs.cache
+D:\Introduction.Loop.Step5\obj\Debug\Introduction.Loop.Step5.exe
+D:\Introduction.Loop.Step5\obj\Debug\Introduction.Loop.Step5.pdb
+D:\Introduction.Loop.Step5\obj\Debug\Introduction.Loop.Step5.csprojAssemblyReference.cache
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step5\bin\Debug\Introduction.Loop.Step5.exe.config
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step5\bin\Debug\Introduction.Loop.Step5.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step5\bin\Debug\Introduction.Loop.Step5.pdb
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step5\obj\Debug\Introduction.Loop.Step5.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step5\obj\Debug\Introduction.Loop.Step5.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step5\obj\Debug\Introduction.Loop.Step5.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.Loop.Step5\obj\Debug\Introduction.Loop.Step5.pdb

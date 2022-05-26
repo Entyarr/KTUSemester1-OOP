@@ -1,0 +1,14 @@
+C:\Users\domkve\Desktop\Lab2.Exercises\Lab2.Exercises.Butai\obj\Debug\Lab2.Exercises.Butai.csprojAssemblyReference.cache
+C:\Users\domkve\Desktop\Lab2.Exercises\Lab2.Exercises.Butai\obj\Debug\Lab2.Exercises.Butai.csproj.CoreCompileInputs.cache
+C:\Users\domkve\Desktop\Lab2.Exercises\Lab2.Exercises.Butai\bin\Debug\Lab2.Exercises.Butai.exe.config
+C:\Users\domkve\Desktop\Lab2.Exercises\Lab2.Exercises.Butai\bin\Debug\Lab2.Exercises.Butai.exe
+C:\Users\domkve\Desktop\Lab2.Exercises\Lab2.Exercises.Butai\bin\Debug\Lab2.Exercises.Butai.pdb
+C:\Users\domkve\Desktop\Lab2.Exercises\Lab2.Exercises.Butai\obj\Debug\Lab2.Exercises.Butai.exe
+C:\Users\domkve\Desktop\Lab2.Exercises\Lab2.Exercises.Butai\obj\Debug\Lab2.Exercises.Butai.pdb
+E:\Lab2.Exercises\Lab2.Exercises.Butai\obj\Debug\Lab2.Exercises.Butai.csproj.AssemblyReference.cache
+E:\Lab2.Exercises\Lab2.Exercises.Butai\obj\Debug\Lab2.Exercises.Butai.csproj.CoreCompileInputs.cache
+E:\Lab2.Exercises\Lab2.Exercises.Butai\obj\Debug\Lab2.Exercises.Butai.exe
+E:\Lab2.Exercises\Lab2.Exercises.Butai\obj\Debug\Lab2.Exercises.Butai.pdb
+E:\Lab2.Exercises\Lab2.Exercises.Butai\bin\Debug\Lab2.Exercises.Butai.exe.config
+E:\Lab2.Exercises\Lab2.Exercises.Butai\bin\Debug\Lab2.Exercises.Butai.exe
+E:\Lab2.Exercises\Lab2.Exercises.Butai\bin\Debug\Lab2.Exercises.Butai.pdb

@@ -1,0 +1,7 @@
+C:\Users\domkv\Desktop\Introduction\Introduction.Self3\bin\Debug\Introduction.Self3.exe.config
+C:\Users\domkv\Desktop\Introduction\Introduction.Self3\bin\Debug\Introduction.Self3.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.Self3\bin\Debug\Introduction.Self3.pdb
+C:\Users\domkv\Desktop\Introduction\Introduction.Self3\obj\Debug\Introduction.Self3.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Introduction\Introduction.Self3\obj\Debug\Introduction.Self3.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.Self3\obj\Debug\Introduction.Self3.pdb
+C:\Users\domkv\Desktop\Introduction\Introduction.Self3\obj\Debug\Introduction.Self3.csproj.AssemblyReference.cache

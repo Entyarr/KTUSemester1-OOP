@@ -1,0 +1,7 @@
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Analize\bin\Debug\Lab4.Exercises.Analize.exe.config
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Analize\bin\Debug\Lab4.Exercises.Analize.exe
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Analize\bin\Debug\Lab4.Exercises.Analize.pdb
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Analize\obj\Debug\Lab4.Exercises.Analize.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Analize\obj\Debug\Lab4.Exercises.Analize.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Analize\obj\Debug\Lab4.Exercises.Analize.exe
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Analize\obj\Debug\Lab4.Exercises.Analize.pdb

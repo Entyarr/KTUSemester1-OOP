@@ -1,0 +1,7 @@
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Lines\bin\Debug\Lab4.Exercises.Lines.exe.config
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Lines\bin\Debug\Lab4.Exercises.Lines.exe
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Lines\bin\Debug\Lab4.Exercises.Lines.pdb
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Lines\obj\Debug\Lab4.Exercises.Lines.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Lines\obj\Debug\Lab4.Exercises.Lines.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Lines\obj\Debug\Lab4.Exercises.Lines.exe
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Lines\obj\Debug\Lab4.Exercises.Lines.pdb

@@ -1,0 +1,14 @@
+C:\Users\domkve\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Raides\bin\Debug\Lab4.Exercises.Raides.exe.config
+C:\Users\domkve\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Raides\bin\Debug\Lab4.Exercises.Raides.exe
+C:\Users\domkve\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Raides\bin\Debug\Lab4.Exercises.Raides.pdb
+C:\Users\domkve\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Raides\obj\Debug\Lab4.Exercises.Raides.csprojAssemblyReference.cache
+C:\Users\domkve\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Raides\obj\Debug\Lab4.Exercises.Raides.csproj.CoreCompileInputs.cache
+C:\Users\domkve\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Raides\obj\Debug\Lab4.Exercises.Raides.exe
+C:\Users\domkve\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Raides\obj\Debug\Lab4.Exercises.Raides.pdb
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Raides\bin\Debug\Lab4.Exercises.Raides.exe.config
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Raides\bin\Debug\Lab4.Exercises.Raides.exe
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Raides\bin\Debug\Lab4.Exercises.Raides.pdb
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Raides\obj\Debug\Lab4.Exercises.Raides.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Raides\obj\Debug\Lab4.Exercises.Raides.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Raides\obj\Debug\Lab4.Exercises.Raides.exe
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Raides\obj\Debug\Lab4.Exercises.Raides.pdb

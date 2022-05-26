@@ -1,0 +1,7 @@
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.StringBuilder\bin\Debug\Lab4.Exercises.StringBuilder.exe.config
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.StringBuilder\bin\Debug\Lab4.Exercises.StringBuilder.exe
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.StringBuilder\bin\Debug\Lab4.Exercises.StringBuilder.pdb
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.StringBuilder\obj\Debug\Lab4.Exercises.StringBuilding.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.StringBuilder\obj\Debug\Lab4.Exercises.StringBuilder.exe
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.StringBuilder\obj\Debug\Lab4.Exercises.StringBuilder.pdb
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.StringBuilder\obj\Debug\Lab4.Exercises.StringBuilding.csproj.AssemblyReference.cache

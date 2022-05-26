@@ -1,0 +1,7 @@
+C:\Users\domkv\Desktop\Introduction\Introduction.Methods.Step1\bin\Debug\Introduction.Methods.Step1.exe.config
+C:\Users\domkv\Desktop\Introduction\Introduction.Methods.Step1\bin\Debug\Introduction.Methods.Step1.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.Methods.Step1\bin\Debug\Introduction.Methods.Step1.pdb
+C:\Users\domkv\Desktop\Introduction\Introduction.Methods.Step1\obj\Debug\Introduction.Methods.Step1.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\Introduction\Introduction.Methods.Step1\obj\Debug\Introduction.Methods.Step1.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Introduction\Introduction.Methods.Step1\obj\Debug\Introduction.Methods.Step1.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.Methods.Step1\obj\Debug\Introduction.Methods.Step1.pdb

@@ -1,0 +1,7 @@
+C:\Users\domkv\Desktop\Introduction\Introduction.Self4\bin\Debug\Introduction.Self4.exe.config
+C:\Users\domkv\Desktop\Introduction\Introduction.Self4\bin\Debug\Introduction.Self4.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.Self4\bin\Debug\Introduction.Self4.pdb
+C:\Users\domkv\Desktop\Introduction\Introduction.Self4\obj\Debug\Introduction.Self4.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Introduction\Introduction.Self4\obj\Debug\Introduction.Self4.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.Self4\obj\Debug\Introduction.Self4.pdb
+C:\Users\domkv\Desktop\Introduction\Introduction.Self4\obj\Debug\Introduction.Self4.csproj.AssemblyReference.cache

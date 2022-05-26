@@ -1,0 +1,19 @@
+--------------------------------------
+| Ilgiausias žodis | Pradžia | Ilgis |
+--------------------------------------
+| Kūčių            |       0 |     5 |
+|                  |       0 |     0 |
+| šeimininkė       |      20 |    10 |
+| netekėjus        |      25 |     9 |
+| dalgiakočius     |      18 |    12 |
+| nepertrūkęs      |      58 |    11 |
+| šeimininkė       |      59 |    10 |
+| Šeimininkė       |      48 |    10 |
+| negailėdama      |       0 |    11 |
+| žirnius          |      10 |     7 |
+| kiaušinius       |      30 |    10 |
+| šeimininkė       |      28 |    10 |
+| nepamestut       |      56 |    10 |
+| vienon           |       0 |     6 |
+| šeimininkės      |      19 |    11 |
+--------------------------------------

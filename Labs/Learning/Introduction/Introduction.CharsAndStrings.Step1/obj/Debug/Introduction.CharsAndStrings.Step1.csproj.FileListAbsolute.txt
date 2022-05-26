@@ -1,0 +1,6 @@
+C:\Users\domkv\Desktop\Introduction\Introduction.CharsAndStrings.Step1\bin\Debug\Introduction.CharsAndStrings.Step1.exe.config
+C:\Users\domkv\Desktop\Introduction\Introduction.CharsAndStrings.Step1\bin\Debug\Introduction.CharsAndStrings.Step1.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.CharsAndStrings.Step1\bin\Debug\Introduction.CharsAndStrings.Step1.pdb
+C:\Users\domkv\Desktop\Introduction\Introduction.CharsAndStrings.Step1\obj\Debug\Introduction.CharsAndStrings.Step1.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Introduction\Introduction.CharsAndStrings.Step1\obj\Debug\Introduction.CharsAndStrings.Step1.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.CharsAndStrings.Step1\obj\Debug\Introduction.CharsAndStrings.Step1.pdb

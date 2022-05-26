@@ -1,0 +1,14 @@
+D:\Introduction\Introduction.If.Step2\bin\Debug\Introduction.If.Step2.exe.config
+D:\Introduction\Introduction.If.Step2\bin\Debug\Introduction.If.Step2.exe
+D:\Introduction\Introduction.If.Step2\bin\Debug\Introduction.If.Step2.pdb
+D:\Introduction\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.csproj.CoreCompileInputs.cache
+D:\Introduction\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.exe
+D:\Introduction\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.pdb
+D:\Introduction\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.csprojAssemblyReference.cache
+C:\Users\domkv\Desktop\Introduction\Introduction.If.Step2\bin\Debug\Introduction.If.Step2.exe.config
+C:\Users\domkv\Desktop\Introduction\Introduction.If.Step2\bin\Debug\Introduction.If.Step2.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.If.Step2\bin\Debug\Introduction.If.Step2.pdb
+C:\Users\domkv\Desktop\Introduction\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Introduction\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.exe
+C:\Users\domkv\Desktop\Introduction\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.pdb
+C:\Users\domkv\Desktop\Introduction\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.csproj.AssemblyReference.cache

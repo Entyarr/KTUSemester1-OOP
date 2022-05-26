@@ -1,0 +1,7 @@
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Remove\obj\Debug\Lab4.Exercises.Remove.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Remove\bin\Debug\Lab4.Exercises.Remove.exe.config
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Remove\bin\Debug\Lab4.Exercises.Remove.exe
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Remove\bin\Debug\Lab4.Exercises.Remove.pdb
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Remove\obj\Debug\Lab4.Exercises.Remove.exe
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Remove\obj\Debug\Lab4.Exercises.Remove.pdb
+C:\Users\domkv\Desktop\Lab4\Lab4.Exercises\Lab4.Exercises.Remove\obj\Debug\Lab4.Exercises.Remove.csproj.AssemblyReference.cache
