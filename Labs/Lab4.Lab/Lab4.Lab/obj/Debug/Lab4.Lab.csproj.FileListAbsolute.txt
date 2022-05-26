@@ -1,0 +1,28 @@
+C:\Users\domkv\Desktop\Lab4.Lab\Lab4.Lab\obj\Debug\Lab4.Lab.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\Lab4.Lab\Lab4.Lab\obj\Debug\Lab4.Lab.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Lab4.Lab\Lab4.Lab\bin\Debug\Lab4.Lab.exe.config
+C:\Users\domkv\Desktop\Lab4.Lab\Lab4.Lab\bin\Debug\Lab4.Lab.exe
+C:\Users\domkv\Desktop\Lab4.Lab\Lab4.Lab\bin\Debug\Lab4.Lab.pdb
+C:\Users\domkv\Desktop\Lab4.Lab\Lab4.Lab\obj\Debug\Lab4.Lab.exe
+C:\Users\domkv\Desktop\Lab4.Lab\Lab4.Lab\obj\Debug\Lab4.Lab.pdb
+C:\Users\domkve\Desktop\Lab4\Lab4.Lab\Lab4.Lab\bin\Debug\Lab4.Lab.exe.config
+C:\Users\domkve\Desktop\Lab4\Lab4.Lab\Lab4.Lab\bin\Debug\Lab4.Lab.exe
+C:\Users\domkve\Desktop\Lab4\Lab4.Lab\Lab4.Lab\bin\Debug\Lab4.Lab.pdb
+C:\Users\domkve\Desktop\Lab4\Lab4.Lab\Lab4.Lab\obj\Debug\Lab4.Lab.csprojAssemblyReference.cache
+C:\Users\domkve\Desktop\Lab4\Lab4.Lab\Lab4.Lab\obj\Debug\Lab4.Lab.csproj.CoreCompileInputs.cache
+C:\Users\domkve\Desktop\Lab4\Lab4.Lab\Lab4.Lab\obj\Debug\Lab4.Lab.exe
+C:\Users\domkve\Desktop\Lab4\Lab4.Lab\Lab4.Lab\obj\Debug\Lab4.Lab.pdb
+C:\Users\domkv\Desktop\grbgbrbg\Lab4\Lab4.Lab\Lab4.Lab\obj\Debug\Lab4.Lab.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\grbgbrbg\Lab4\Lab4.Lab\Lab4.Lab\obj\Debug\Lab4.Lab.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\grbgbrbg\Lab4\Lab4.Lab\Lab4.Lab\obj\Debug\Lab4.Lab.exe
+C:\Users\domkv\Desktop\grbgbrbg\Lab4\Lab4.Lab\Lab4.Lab\obj\Debug\Lab4.Lab.pdb
+C:\Users\domkv\Desktop\grbgbrbg\Lab4\Lab4.Lab\Lab4.Lab\bin\Debug\Lab4.Lab.exe.config
+C:\Users\domkv\Desktop\grbgbrbg\Lab4\Lab4.Lab\Lab4.Lab\bin\Debug\Lab4.Lab.exe
+C:\Users\domkv\Desktop\grbgbrbg\Lab4\Lab4.Lab\Lab4.Lab\bin\Debug\Lab4.Lab.pdb
+C:\Users\domkv\Desktop\grbgbrbg - Copy\Lab4\Lab4.Lab\Lab4.Lab\bin\Debug\Lab4.Lab.exe.config
+C:\Users\domkv\Desktop\grbgbrbg - Copy\Lab4\Lab4.Lab\Lab4.Lab\bin\Debug\Lab4.Lab.exe
+C:\Users\domkv\Desktop\grbgbrbg - Copy\Lab4\Lab4.Lab\Lab4.Lab\bin\Debug\Lab4.Lab.pdb
+C:\Users\domkv\Desktop\grbgbrbg - Copy\Lab4\Lab4.Lab\Lab4.Lab\obj\Debug\Lab4.Lab.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\grbgbrbg - Copy\Lab4\Lab4.Lab\Lab4.Lab\obj\Debug\Lab4.Lab.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\grbgbrbg - Copy\Lab4\Lab4.Lab\Lab4.Lab\obj\Debug\Lab4.Lab.exe
+C:\Users\domkv\Desktop\grbgbrbg - Copy\Lab4\Lab4.Lab\Lab4.Lab\obj\Debug\Lab4.Lab.pdb

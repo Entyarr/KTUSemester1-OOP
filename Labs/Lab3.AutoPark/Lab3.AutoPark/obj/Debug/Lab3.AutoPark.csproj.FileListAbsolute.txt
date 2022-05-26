@@ -1,0 +1,7 @@
+C:\Users\domkv\Desktop\ObjectProgramming Lab darbai\Lab3\Lab3.AutoPark\Lab3.AutoPark\Lab3.AutoPark\obj\Debug\Lab3.AutoPark.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\ObjectProgramming Lab darbai\Lab3\Lab3.AutoPark\Lab3.AutoPark\Lab3.AutoPark\obj\Debug\Lab3.AutoPark.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\ObjectProgramming Lab darbai\Lab3\Lab3.AutoPark\Lab3.AutoPark\Lab3.AutoPark\bin\Debug\Lab3.AutoPark.exe.config
+C:\Users\domkv\Desktop\ObjectProgramming Lab darbai\Lab3\Lab3.AutoPark\Lab3.AutoPark\Lab3.AutoPark\bin\Debug\Lab3.AutoPark.exe
+C:\Users\domkv\Desktop\ObjectProgramming Lab darbai\Lab3\Lab3.AutoPark\Lab3.AutoPark\Lab3.AutoPark\bin\Debug\Lab3.AutoPark.pdb
+C:\Users\domkv\Desktop\ObjectProgramming Lab darbai\Lab3\Lab3.AutoPark\Lab3.AutoPark\Lab3.AutoPark\obj\Debug\Lab3.AutoPark.exe
+C:\Users\domkv\Desktop\ObjectProgramming Lab darbai\Lab3\Lab3.AutoPark\Lab3.AutoPark\Lab3.AutoPark\obj\Debug\Lab3.AutoPark.pdb

@@ -1,0 +1,14 @@
+C:\Users\domkv\Desktop\Lab5.AutoPark\Lab5.AutoPark\obj\Debug\Lab5.AutoPark.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\Lab5.AutoPark\Lab5.AutoPark\obj\Debug\Lab5.AutoPark.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Lab5.AutoPark\Lab5.AutoPark\bin\Debug\Lab5.AutoPark.exe.config
+C:\Users\domkv\Desktop\Lab5.AutoPark\Lab5.AutoPark\bin\Debug\Lab5.AutoPark.exe
+C:\Users\domkv\Desktop\Lab5.AutoPark\Lab5.AutoPark\bin\Debug\Lab5.AutoPark.pdb
+C:\Users\domkv\Desktop\Lab5.AutoPark\Lab5.AutoPark\obj\Debug\Lab5.AutoPark.exe
+C:\Users\domkv\Desktop\Lab5.AutoPark\Lab5.AutoPark\obj\Debug\Lab5.AutoPark.pdb
+C:\Users\domkv\Desktop\2021 Rudens Semestras\ObjectProgramming Lab darbai\Lab5.AutoPark\Lab5.AutoPark\bin\Debug\Lab5.AutoPark.exe.config
+C:\Users\domkv\Desktop\2021 Rudens Semestras\ObjectProgramming Lab darbai\Lab5.AutoPark\Lab5.AutoPark\bin\Debug\Lab5.AutoPark.exe
+C:\Users\domkv\Desktop\2021 Rudens Semestras\ObjectProgramming Lab darbai\Lab5.AutoPark\Lab5.AutoPark\bin\Debug\Lab5.AutoPark.pdb
+C:\Users\domkv\Desktop\2021 Rudens Semestras\ObjectProgramming Lab darbai\Lab5.AutoPark\Lab5.AutoPark\obj\Debug\Lab5.AutoPark.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\2021 Rudens Semestras\ObjectProgramming Lab darbai\Lab5.AutoPark\Lab5.AutoPark\obj\Debug\Lab5.AutoPark.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\2021 Rudens Semestras\ObjectProgramming Lab darbai\Lab5.AutoPark\Lab5.AutoPark\obj\Debug\Lab5.AutoPark.exe
+C:\Users\domkv\Desktop\2021 Rudens Semestras\ObjectProgramming Lab darbai\Lab5.AutoPark\Lab5.AutoPark\obj\Debug\Lab5.AutoPark.pdb

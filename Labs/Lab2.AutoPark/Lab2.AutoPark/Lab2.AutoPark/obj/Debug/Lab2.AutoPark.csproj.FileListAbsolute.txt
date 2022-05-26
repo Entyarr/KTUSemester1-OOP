@@ -1,0 +1,14 @@
+C:\Users\domkve\Desktop\Lab2\Lab2.AutoPark\Lab2.AutoPark\Lab2.AutoPark\bin\Debug\Lab2.AutoPark.exe.config
+C:\Users\domkve\Desktop\Lab2\Lab2.AutoPark\Lab2.AutoPark\Lab2.AutoPark\bin\Debug\Lab2.AutoPark.exe
+C:\Users\domkve\Desktop\Lab2\Lab2.AutoPark\Lab2.AutoPark\Lab2.AutoPark\bin\Debug\Lab2.AutoPark.pdb
+C:\Users\domkve\Desktop\Lab2\Lab2.AutoPark\Lab2.AutoPark\Lab2.AutoPark\obj\Debug\Lab2.AutoPark.csprojAssemblyReference.cache
+C:\Users\domkve\Desktop\Lab2\Lab2.AutoPark\Lab2.AutoPark\Lab2.AutoPark\obj\Debug\Lab2.AutoPark.csproj.CoreCompileInputs.cache
+C:\Users\domkve\Desktop\Lab2\Lab2.AutoPark\Lab2.AutoPark\Lab2.AutoPark\obj\Debug\Lab2.AutoPark.exe
+C:\Users\domkve\Desktop\Lab2\Lab2.AutoPark\Lab2.AutoPark\Lab2.AutoPark\obj\Debug\Lab2.AutoPark.pdb
+C:\Users\domkv\Desktop\Lab2.AutoPark\Lab2.AutoPark\Lab2.AutoPark\obj\Debug\Lab2.AutoPark.csproj.AssemblyReference.cache
+C:\Users\domkv\Desktop\Lab2.AutoPark\Lab2.AutoPark\Lab2.AutoPark\obj\Debug\Lab2.AutoPark.csproj.CoreCompileInputs.cache
+C:\Users\domkv\Desktop\Lab2.AutoPark\Lab2.AutoPark\Lab2.AutoPark\obj\Debug\Lab2.AutoPark.exe
+C:\Users\domkv\Desktop\Lab2.AutoPark\Lab2.AutoPark\Lab2.AutoPark\obj\Debug\Lab2.AutoPark.pdb
+C:\Users\domkv\Desktop\Lab2.AutoPark\Lab2.AutoPark\Lab2.AutoPark\bin\Debug\Lab2.AutoPark.exe.config
+C:\Users\domkv\Desktop\Lab2.AutoPark\Lab2.AutoPark\Lab2.AutoPark\bin\Debug\Lab2.AutoPark.exe
+C:\Users\domkv\Desktop\Lab2.AutoPark\Lab2.AutoPark\Lab2.AutoPark\bin\Debug\Lab2.AutoPark.pdb

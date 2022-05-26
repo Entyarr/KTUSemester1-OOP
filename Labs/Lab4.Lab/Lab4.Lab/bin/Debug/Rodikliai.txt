@@ -1,0 +1,31 @@
+Žodžiai, kurių pradžia ir pabaiga yra balsė
+-----------------
+Žodžiu kiekis: 44
+-----------------
+Kiekis | Žodis
+-----------------
+    12 | abca 
+    11 | azza 
+    10 | aaae 
+     6 | ezza 
+     2 | a 
+     1 | aaa 
+     1 | aae 
+     1 | e 
+
+
+
+Ilgiausi žodžiai
+-----------------
+Kiekis | Žodis
+-----------------
+     6 | ezza 
+    11 | azza 
+    12 | abca 
+    10 | aaae 
+     1 | aae 
+     1 | azz 
+     1 | aaa 
+     2 | a 
+     1 | e 
+     4 |  

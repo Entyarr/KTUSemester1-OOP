@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.AutoPark", "Lab2.AutoPark\Lab2.AutoPark.csproj", "{84C15655-C204-42B6-BE91-45CA31F37FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84C15655-C204-42B6-BE91-45CA31F37FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C15655-C204-42B6-BE91-45CA31F37FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C15655-C204-42B6-BE91-45CA31F37FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C15655-C204-42B6-BE91-45CA31F37FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D9A3324-E045-4E3D-97CD-AF6FBCC2FDD6}
+	EndGlobalSection
+EndGlobal
