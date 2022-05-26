@@ -3,3 +3,4 @@
 
 Here are all 5 programs we had to write for this module.
 For every program, my number was 2.
+Feel free to use my code for your educational needs.
